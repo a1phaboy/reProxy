@@ -1,3 +1,0 @@
-# 基于B/S架构的交互式shell实现
-
-传统基于C/S架构的交互式shell很简单，以自身client为wsclient端，以目标为wsserver端直接建立ws连接
